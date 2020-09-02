@@ -2,3 +2,4 @@ theme: jekyll-theme-architect
 title: test page
 plugins:
   - jekyll-toc
+  - jekyll-sitemap
