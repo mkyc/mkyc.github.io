@@ -1,5 +1,6 @@
 ---
 layout: default
+title: testing jekyll on GH pages
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
